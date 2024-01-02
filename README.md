@@ -25,33 +25,3 @@ Mapbox to deliver an interactive map for users to visually see the location of c
 EJS (Embedded JavaScript Templates) as a templating language to create dynamic user experices.
 Bootstrap as the driving CSS framework to create visually appealing user experiences.
 Render to host the complete application
-🚀 Getting Started
-To run this project on your system:
-Create an .env file and add values to the following variables:
-
-CLOUDINARY_CLOUD_NAME=<Your Cloudinary cloud name>
-CLOUDINARY_KEY=<Your Cloudinary key>
-CLOUDINARY_SECRET=<Your Cloudinary secret>
-MAPBOX_TOKEN=<Your Mapbox token>
-DB_URL=<Your MongoDB atlas URL or local MongoDB URL>
-Make sure you have MongoDB installed on your system In a terminal window, initialize a MongoDB Database
-
-$ ./mongod
-In a second terminal window, access the MongoDB Database with Mongoose
-
-$ mongoose
-In a third terminal window, install dependencies using npm:
-
-$ npm install
-And then run the application with
-
-$ npm start
-or for hot reloading (recommended)
-
-$ nodemon app.js
-🚗 Roadmap
-Refactor backend to use Typescript instead of JavaScript to ensure code type safety
-
-Replace EJS with Next.js to take advantage of the scalability and modularity of React while still maintaining the performance of server rendered applications
-
-Overhaul the UI to create a more interactive experience. Three.js 👀👀

@@ -4,39 +4,23 @@ Live Website:-  https://yelpcamp-dwzt.onrender.com/
 
 
 ⚙️ Features
-Authentication:
-
-User login with username and password
-
-Admin sign-up with admin code
-
-Authorization:
-
-One cannot manage posts and view user profile without being authenticated
-
-One cannot edit or delete posts and comments created by other users
-
-Admin can manage all posts and comments
-
-Manage campground posts with basic functionalities:
-
-Create, edit and delete posts and comments
-
-Upload campground photos
-
-Display campground location on Google Maps
-
-Search existing campgrounds
-
-Manage user account with basic functionalities:
-
-Password reset via email confirmation (disabled)
-
-Profile page setup with sign-up
-
-Flash messages responding to users' interaction with the app
-
-Responsive web design
+1.  Authentication:
+2.  User login with username and password
+3.  Admin sign-up with admin code
+4.  Authorization:
+5.  One cannot manage posts and view user profile without being authenticated
+6.  One cannot edit or delete posts and comments created by other users
+7.  Admin can manage all posts and comments
+8.  Manage campground posts with basic functionalities:
+9.  Create, edit and delete posts and comments
+10. Upload campground photos
+11. Display campground location on Google Maps
+12. Search existing campgrounds
+13. Manage user account with basic functionalities:
+14. Password reset via email confirmation (disabled)
+15. Profile page setup with sign-up
+16. Flash messages responding to users' interaction with the app
+17. Responsive web design
 
 
 💡 Lessons Learned / Technologies Used

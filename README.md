@@ -23,7 +23,7 @@ Live Website:-  https://yelpcamp-dwzt.onrender.com/
 17. Responsive web design
 
 
-💡 Lessons Learned / Technologies Used
+💡 Technologies Used
 
 
 Express.js minimal, unopinionated backend framework to keep serverside boilerplate as low as possible. Especially useful for learning how to piece different technologies together to develop a complete backend.
@@ -45,3 +45,7 @@ EJS (Embedded JavaScript Templates) as a templating language to create dynamic u
 Bootstrap as the driving CSS framework to create visually appealing user experiences.
 
 Render to host the complete application
+
+![Screenshot (289)](https://github.com/Vkpro55/yelp-camp/assets/83464767/031e2b53-f5ec-4fbd-87ed-7e0389677f88)
+![Screenshot (288)](https://github.com/Vkpro55/yelp-camp/assets/83464767/d64a60c2-2f69-4684-9940-cd716fa01e51)
+![Screenshot (287)](https://github.com/Vkpro55/yelp-camp/assets/83464767/5dff3512-e95a-42d9-9e2e-43aa31d9d592)

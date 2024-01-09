@@ -3,7 +3,7 @@ Live Website:-  https://yelpcamp-dwzt.onrender.com/
 
 
 
-⚙️ #Features
+# Features
 1.  Authentication:
 2.  User login with username and password
 3.  Admin sign-up with admin code
@@ -23,7 +23,7 @@ Live Website:-  https://yelpcamp-dwzt.onrender.com/
 17. Responsive web design
 
 
-💡 #Technologies Used
+# Tech Used
 
 
 Express.js minimal, unopinionated backend framework to keep serverside boilerplate as low as possible. Especially useful for learning how to piece different technologies together to develop a complete backend.
